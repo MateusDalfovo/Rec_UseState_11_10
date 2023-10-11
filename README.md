@@ -3,7 +3,7 @@ Projeto cadastro de um técnico com UseState.
 
 Para rodar o projeto siga o passo-a-passo:
 
-1- De um git clone;
+1- De um git clone;/n
 2- Abra o seu VS Code;
 3- Abra o terminal no VS Code;
 4- Dê um git clone + o link do projeto;
